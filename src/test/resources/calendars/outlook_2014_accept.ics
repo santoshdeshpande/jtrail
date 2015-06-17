@@ -33,3 +33,5 @@ PRIORITY:5
 SEQUENCE:0
 SUMMARY;LANGUAGE=en-us:Accepted: Demo 2013: Meeting Oracle/General Motors (
 \tMtg ID-1)
+END:VEVENT
+END:VCALENDAR

@@ -22,7 +22,7 @@ BEGIN:VEVENT
 ATTENDEE;PARTSTAT=ACCEPTED:mailto:jiffle.kicha@gmail.com
 CLASS:PUBLIC
 COMMENT:Are you watching the logs? I am watching if you are watching the lo
-	g :) Thanks for the help!\n
+    g :) Thanks for the help!\n
 CREATED:20131008T094202Z
 DTEND;TZID="Pacific Standard Time":20131213T013000
 DTSTAMP:20131008T094202Z

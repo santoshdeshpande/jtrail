@@ -18,6 +18,7 @@ CLASS:PUBLIC
 TRANSP:OPAQUE
 DTSTAMP:20131003T054235Z
 SEQUENCE:0
-DESCRIPTION:Declining for yahoo mail browser
+DESCRIPTION:Declining for yahoo mail browser for this event and this should be
+  another test for the entire line to be wrapped in another line
 END:VEVENT
 END:VCALENDAR

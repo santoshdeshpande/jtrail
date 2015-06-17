@@ -3,7 +3,7 @@ PRODID:Zimbra-Calendar-Provider
 VERSION:2.0
 METHOD:REPLY
 BEGIN:VEVENT
-UID:b3JhY2xlK29vdzIwMTMrMzIzMitwYXJ0bmVyKzIzMTIzMTIzMjEz
+UID:g8iHNZh89CG2ffROcVAzKA
 SUMMARY:Declined: Oracle Open World Retail – “Delhi wala’s special event”: M
  eeting Oracle/Mac Outlook and Gmail calendar testing (Mtg ID-15)
 LOCATION:Contact Front Desk for room information
@@ -18,6 +18,6 @@ CLASS:PUBLIC
 TRANSP:OPAQUE
 DTSTAMP:20131003T054235Z
 SEQUENCE:0
-DESCRIPTION:Declining for yahoo mail browser :)
+DESCRIPTION:Declining for yahoo mail browser
 END:VEVENT
 END:VCALENDAR
